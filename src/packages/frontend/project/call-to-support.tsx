@@ -64,8 +64,7 @@ const VERSIONS = {
         organizations, charitable foundations or institutional investors.
       </Paragraph>
       <Paragraph>
-        The site depends entirely <Text strong>on your financial support</Text>{" "}
-        to continue operating.
+        <Text strong>CoCalc depends entirely on the financial support of its customers to continue operating.</Text>{" "}
       </Paragraph>
       <Paragraph>
         Unable to purchase a license?{" "}
